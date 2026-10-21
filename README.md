@@ -21,7 +21,7 @@ A mobile-friendly wedding website featuring guest messages, photo sharing, and a
 
 [View Wedding Project](https://github.com/realgeorgeterry-ZOE/THE-WEDDING)
 
-[view live project](kamifitforchief.netlify.app)
+[view live project](https://kamifitforchief.netlify.app)
 
 ## 🛠️ Technologies
 
