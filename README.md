@@ -14,7 +14,7 @@ A logistics management system supporting bookings, quotations, dispatch, and del
 ### 🏭 Block Factory Management
 A business management application for monitoring sales, payments, expenses, production, and inventory.
 
-[View My GitHub Profile](https://github.com/emmanuelowireducodes-rgb)
+[View Project](https://github.com/emmanuelowireducodes-rgb/BlockFactory_Management)
 
 ### 💍 Wedding Guestbook Website
 A mobile-friendly wedding website featuring guest messages, photo sharing, and a dashboard for the couple. Developed using React, TypeScript, and Supabase with AI-assisted tools.
