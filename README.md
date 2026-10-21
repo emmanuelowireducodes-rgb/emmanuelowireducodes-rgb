@@ -1,5 +1,5 @@
 ## Hi there 👋
-Emmanuel Owiredu IPMC Software Engineering student. Building web apps for logistics, education, and business management.
+IPMC Software Engineering student, building web apps for logistics, education, and business management. Project card, Design Pot Logistics, a Django-based system for bookings, quotes, dispatch, and delivery tracking. Built with role-based dashboards for clients and field staff. Wedding guestbook, a mobile first app built in React and TypeScript with Supabase, independently researched and delivered in one night. 
 <!--
 **emmanuelowireducod-rgb/emmanuelowireducodes-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
