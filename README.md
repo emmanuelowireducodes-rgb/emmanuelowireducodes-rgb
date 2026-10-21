@@ -1,5 +1,39 @@
-## Hi there 👋
-IPMC Software Engineering student, building web apps for logistics, education, and business management. Project card, Design Pot Logistics, a Django-based system for bookings, quotes, dispatch, and delivery tracking. Built with role-based dashboards for clients and field staff. Wedding guestbook, a mobile first app built in React and TypeScript with Supabase, independently researched and delivered in one night. 
+# Hi, I'm Emmanuel Owiredu 👋
+
+🎓 Software Engineering student at IPMC, Ghana.
+
+I build practical software solutions for real-world business problems, including logistics and business management systems.
+
+## 🚀 Featured Projects
+
+### 🚚 Design Pot Logistics
+A logistics management system supporting bookings, quotations, dispatch, and delivery tracking.
+
+[View Project](https://github.com/emmanuelowireducodes-rgb/design-pot-logistics)
+
+### 🏭 Block Factory Management
+A business management application for monitoring sales, payments, expenses, production, and inventory.
+
+[View My GitHub Profile](https://github.com/emmanuelowireducodes-rgb)
+
+### 💍 Wedding Guestbook Website
+A mobile-friendly wedding website featuring guest messages, photo sharing, and a dashboard for the couple. Developed using React, TypeScript, and Supabase with AI-assisted tools.
+
+[View Wedding Project](https://github.com/realgeorgeterry-ZOE/THE-WEDDING)
+
+## 🛠️ Technologies
+
+- Python and Django
+- React and TypeScript
+- JavaScript, HTML, and CSS
+- Supabase
+- Git and GitHub
+
+## 🎯 Current Goals
+
+- Grow my software engineering skills.
+- Build useful applications for businesses.
+- Pursue junior developer roles, internships, and freelance opportunities.
 <!--
 **emmanuelowireducod-rgb/emmanuelowireducodes-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
